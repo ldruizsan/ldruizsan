@@ -2,6 +2,8 @@
 
 ## About me
 
+- I speak Spanish and English and can read a bit of German
+
 - I have a bachelor's and master's degrees in Chemical Engineering
 
 - Currently enrolled in Thinkful's Data Analytics Immersion Program, will share the projects soon!
