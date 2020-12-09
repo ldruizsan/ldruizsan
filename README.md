@@ -6,6 +6,8 @@
 
 - Currently enrolled in Thinkful's Data Analytics Immersion Program
 
+-- Be sure to check out my Thinkful repository for capstone projects and dashboards prepared for the program
+
 - I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
 
 - Love to explore new concepts and re-live the thrill of learning
