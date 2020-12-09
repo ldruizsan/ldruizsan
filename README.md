@@ -4,9 +4,7 @@
 
 - I have a bachelor's and master's degrees in Chemical Engineering
 
-- Currently enrolled in Thinkful's Data Analytics Immersion Program
-
--- Be sure to check out my Thinkful repository for capstone projects and dashboards prepared for the program
+- Currently enrolled in Thinkful's Data Analytics Immersion Program, will share the projects soon!
 
 - I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
 
