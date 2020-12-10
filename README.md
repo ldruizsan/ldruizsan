@@ -16,7 +16,7 @@
 
 - Dashboard made using IBM Cognos Analytics as part of the IBM Data Analyst Professional Certificate
 
-![IMG](cognos_dashboard.png)
+![IMG](/img/cognos_dashboard.png)
 
 ## Tech tools
 
@@ -31,4 +31,3 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm&logoColor=007ACC)
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft-Excel&logoColor=007ACC)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
-![IMG](/img/cognos_dashboard.png)
