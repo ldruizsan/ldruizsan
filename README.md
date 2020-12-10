@@ -12,6 +12,12 @@
 
 - Love to explore new concepts and re-live the thrill of learning
 
+## Highlight
+
+- Dashboard made using IBM Cognos Analytics as part of the IBM Data Analyst Professional Certificate
+
+![IMG](cognos_dashboard.png)
+
 ## Tech tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -24,3 +30,5 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=007ACC)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm&logoColor=007ACC)
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft-Excel&logoColor=007ACC)
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
+![IMG](/img/cognos_dashboard.png)
