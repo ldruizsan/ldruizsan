@@ -2,6 +2,8 @@
 
 ## About me
 
+- Love to explore new concepts and re-live the thrill of learning
+
 - I speak Spanish and English and can read a bit of German
 
 - I have a bachelor's and master's degrees in Chemical Engineering
@@ -10,7 +12,8 @@
 
 - I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
 
-- Love to explore new concepts and re-live the thrill of learning
+![IMG](C:\Users\luisr\Documents\GitHub\ldruizsan\img\cognos_dashboard.png)
+![IMG](C:\Users\luisr\Documents\GitHub\ldruizsan\img\data-visualization-dashboard-essentials.png)
 
 ## Highlight
 
