@@ -14,7 +14,8 @@
 
 ![IMG](/img/python-for-data-science-and-ai.png)
 ![IMG](/img/data-visualization-dashboard-essentials.png)
-
+![IMG](/img/Cognitive_Class_-_Data_Analysis_w_Python.png)
+![IMG](/img/Data_Analytics_Essentials.png)
 
 ## Highlight
 
