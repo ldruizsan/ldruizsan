@@ -12,8 +12,8 @@
 
 - I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
 
-![IMG](/img/python-for-data-science-and-ai.png | =100x100)
-![IMG](/img/data-visualization-dashboard-essentials.png | =100x100)
+![IMG](/img/python-for-data-science-and-ai.png)
+![IMG](/img/data-visualization-dashboard-essentials.png)
 
 
 ## Highlight
