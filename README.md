@@ -12,8 +12,8 @@
 
 - I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
 
-![IMG](C:\Users\luisr\Documents\GitHub\ldruizsan\img\cognos_dashboard.png)
-![IMG](C:\Users\luisr\Documents\GitHub\ldruizsan\img\data-visualization-dashboard-essentials.png)
+![IMG](/img/python-for-data-science-and-ai.png)
+![IMG](/img/data-visualization-dashboard-essentials.png)
 
 ## Highlight
 
