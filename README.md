@@ -18,6 +18,7 @@
 ![IMG](/img/Data_Analytics_Essentials.png)
 ![IMG](/img/Excel_Essentials_for_Data_Analytics.png)
 ![IMG](/img/Data_Visual_w_Python.png)
+![IMG](/img/DB_and_SQL_for_Data_Science.png)
 
 ## Highlight
 
