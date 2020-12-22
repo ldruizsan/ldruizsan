@@ -25,6 +25,8 @@
 
 ![IMG](/img/cognos_dashboard.png)
 
+- Check out other dasboards made using Tableau Public during my time at Thinkful [here!](https://public.tableau.com/profile/luis.ruiz.santiago#!/)
+
 ## Tech tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
