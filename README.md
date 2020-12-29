@@ -10,7 +10,9 @@
 
 - Currently enrolled in Thinkful's Data Analytics Immersion Program, will share the projects soon!
 
-- I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
+- I recently finished IBM Data Analyst Professional Certificate offered through Coursera
+
+- I am also taking Google IT Automation with Python and the IBM Data Science Professional Certificate
 
 ![IMG](/img/Professional_Certificate_-_Data_Analyst.png)
 ![IMG](/img/Data_Analysis_and_Visualization_Foundations_Specialization.png)
