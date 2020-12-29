@@ -12,13 +12,9 @@
 
 - I am also taking Coursera's IBM Data Analyst Professional Certificate and Google IT Automation with Python
 
-![IMG](/img/python-for-data-science-and-ai.png)
-![IMG](/img/data-visualization-dashboard-essentials.png)
-![IMG](/img/Cognitive_Class_-_Data_Analysis_w_Python.png)
-![IMG](/img/Data_Analytics_Essentials.png)
-![IMG](/img/Excel_Essentials_for_Data_Analytics.png)
-![IMG](/img/Data_Visual_w_Python.png)
-![IMG](/img/DB_and_SQL_for_Data_Science.png)
+![IMG](/img/Professional_Certificate_-_Data_Analyst.png)
+![IMG](/img/Data_Analysis_and_Visualization_Foundations_Specialization.png)
+
 
 ## Highlight
 
