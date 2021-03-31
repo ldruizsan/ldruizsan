@@ -14,8 +14,9 @@
 
 ![IMG](/img/Professional_Certificate_-_Data_Analyst.png)
 ![IMG](/img/Data_Analysis_and_Visualization_Foundations_Specialization.png)
+
 ![IMG](/img/ibm-ds.png)
-![IMG](/img/thinkful-diploma.png)
+![IMG](/img/thinkful_diploma.png)
 
 ## Highlight
 
