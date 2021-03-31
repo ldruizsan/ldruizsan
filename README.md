@@ -8,15 +8,14 @@
 
 - I have a bachelor's and master's degrees in Chemical Engineering
 
-- Currently enrolled in Thinkful's Data Analytics Immersion Program, will share the projects soon!
-
-- I recently finished IBM Data Analyst Professional Certificate offered through Coursera
+- I recently finished IBM Data Analyst Professional Certificate and Thinkful's Data Analytics Immersion Program
 
 - I am also taking Google IT Automation with Python and the IBM Data Science Professional Certificate
 
 ![IMG](/img/Professional_Certificate_-_Data_Analyst.png)
 ![IMG](/img/Data_Analysis_and_Visualization_Foundations_Specialization.png)
-
+![IMG](/img/ibm-ds.png)
+![IMG](/img/thinkful-diploma.png)
 
 ## Highlight
 
@@ -24,7 +23,7 @@
 
 ![IMG](/img/cognos_dashboard.png)
 
-- Check out other dasboards made using Tableau Public during my time at Thinkful [here!](https://public.tableau.com/profile/luis.ruiz.santiago#!/)
+- Check out other dasboards made using Tableau Public [here!](https://public.tableau.com/profile/luis.ruiz.santiago#!/)
 
 ## Tech tools
 
