@@ -10,7 +10,7 @@
 
 - I recently finished IBM Data Analyst Professional Certificate and Thinkful's Data Analytics Immersion Program
 
-- I am also taking Google IT Automation with Python and the IBM Data Science Professional Certificate
+- Be sure to check out my [Porfolio page!](https://ldruizsan.github.io/Portfolio/)
 
 ![IMG](/img/Professional_Certificate_-_Data_Analyst.png)
 ![IMG](/img/Data_Analysis_and_Visualization_Foundations_Specialization.png)
