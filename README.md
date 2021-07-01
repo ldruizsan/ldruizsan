@@ -2,13 +2,13 @@
 
 ## About me
 
-- Love to explore new concepts and re-live the thrill of learning
+- Love to explore new areas
 
-- I speak Spanish and English and can read a bit of German
+- I know Spanish, English, and a bit of German 
 
 - I have a bachelor's and master's degrees in Chemical Engineering
 
-- I recently finished IBM Data Analyst Professional Certificate and Thinkful's Data Analytics Immersion Program
+- I hold IBM Data Analyst Professional Certificate and Thinkful's Data Analytics Immersion Program certificate as well as others from Coursera and LinkedIn Learning to compliment my experience and expand my knowledge base
 
 - Be sure to check out my [Porfolio page!](https://ldruizsan.github.io/Portfolio/)
 
