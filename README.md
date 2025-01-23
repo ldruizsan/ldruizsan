@@ -2,13 +2,13 @@
 
 ## About me
 
-- Love to explore new areas
+- I'm a data specialist with experience in analysis, data science, and even a bit of data engineering. I am cloud-certified in AWS, Azure, Databricks, MongoDB, and Confluent as well as as a Lean Six Sigma Yellow Belt.
 
 - I know Spanish, English, and a bit of German 
 
 - I have a bachelor's and master's degrees in Chemical Engineering
 
-- I hold IBM Data Analyst Professional Certificate and Thinkful's Data Analytics Immersion Program certificate as well as others from Coursera and LinkedIn Learning to compliment my experience and expand my knowledge base
+- I hold IBM Data Analyst Professional Certificate and Thinkful's Data Analytics Immersion Program certificate as well as others from Coursera and LinkedIn Learning to complement my experience and expand my knowledge base
 
 - Be sure to check out my [Porfolio page!](https://ldruizsan.github.io/Portfolio/)
 
